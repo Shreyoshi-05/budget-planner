@@ -1,0 +1,43 @@
+#row{
+    display: flex;
+}
+body{
+}
+#bBody{
+    width: 60%;
+    height: 40vh;
+    margin: auto;
+    
+    text-align: center;
+}
+#output{
+    display: flex;
+    gap: 20vh;
+    margin-left: 10vh;
+}
+#add{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 10vh;
+}
+#output h2{
+    border: 2px solid black;
+    border-radius: 7px;
+    padding: 9px;
+}
+#row{
+    width: 20%;
+    height: 35px;
+    padding: 8px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(225, 219, 211);
+}
+form{
+    background-color: rgb(225, 219, 211);
+    padding-bottom: 6px;
+    border-radius: 10px;
+
+}
